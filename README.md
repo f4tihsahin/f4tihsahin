@@ -1,7 +1,5 @@
 
-<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNhNmYzM250c2R5OHh4MmpsOWUyc3BjNmQ0anIyb2lrZGhyYjdoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AXorq76Tg3Vte/giphy.webp" width="100%" height="auto"/></p>
-
-
+<p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHA4dmNhcWVsdGJyZ3lieDdoN2RnY290ZmdxYjRlNWJyZXU5OGZrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcqaVH1cDeKZTBS/giphy.gif" width="100%" height="auto"/></p>
 
 
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
