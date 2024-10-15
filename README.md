@@ -27,21 +27,20 @@ Genelde paylaşımlarım iş hayatında karşılaştığım sorunların çözüm
 
 ---
 
-<h2 id="present_status"> Present Status </h3>
+<h2 id="present_status"> Neler Yapıyorum </h3>
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-👉 Still Learning Bug hunting & malware forensics.
+👉 Halen birden fazla yazılım dili ile basit toollar geliştiriyorum.
 
-👉 Managing Tech Communities & Content creator.
+👉 Siber alemde dolaşmayı seviyorum güncel siber güvenlik konularını takip ediyorum.
 
-👉 Writing Some Useful Tools For Myself & Communities
+👉 Geliştirmekte olduğum 3 adet proje için hem kod yazıp hemde araştırma yapıyorum.
 
-👉 Building & Contributing To Open Source Projects
+👉 Veritabanları ile daha fazla zaman geçirip raporlama konularına eğiliyorum.
 
-👉 Currently Learning mobile pentesting & web3 
+👉 Güncel olarak python, php ve javascript ile projeler geliştirip dilleri öğreniyorum.
 
-`Updating:`  Journey to Cybersecurity Specialist.
 
 ---
 
