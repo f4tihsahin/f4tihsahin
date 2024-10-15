@@ -7,8 +7,8 @@
 
 <h2 align="left">
   Merhaba
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h2>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB4ZGQybDZpempmdnlzdnNkNDlveHpnOHAwOHU3cnd6dHZudHp2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cmlyaySFQdYCVRaKip/giphy.gif" width="25px"/>
+ 
 
 Ben **[`Fatih`](https://www.sahin.tc)**. Araştırmayı ve yeni şeyler öğrenmeyi, aynı zamanda öğrendiklerini öğretmeyi seven birisiyim. Teknolojiyi seviyorum ve günlük hayatta bile bir şeyler öğrenip kullanmak istiyorum. Genelde hazırcı değilim. <br>
 İş hayatında ve diğer konularda öğrendiğim yeni konular ile ilgili blog yazmaya çalışıyorum aynı zamanda github hesabımdan da zaman oldukça birşeyler paylaşmaya çalışıyorum. 
@@ -25,7 +25,7 @@ Genelde paylaşımlarım iş hayatında karşılaştığım sorunların çözüm
 - **İsim**: Fatih
 - **Şehir**: Kayseri
 - Blog sitem **[`sahin.tc`](https://www.sahin.tc)**. 
-- Mail adresim  **fatih@sahin.tc.me**
+- Mail adresim  **fatih@sahin.tc**
 
 ---
 
