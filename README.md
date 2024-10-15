@@ -12,13 +12,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-Ben **[`Fatih`](https://www.sahin.tc)**. Araçtırmayı ve yeni şeyler öğrenmeyi ve aynı zamanda öğrendiklerini öğretmeyi seven birisiyim. <br>
+Ben **[`Fatih`](https://www.sahin.tc)**. Araştırmayı ve yeni şeyler öğrenmeyi, aynı zamanda öğrendiklerini öğretmeyi seven birisiyim. Teknolojiyi seviyorum ve günlük hayatta bile bir şeyler öğrenip kullanmak istiyorum. Genelde hazırcı değilim. <br>
 İş hayatında ve diğer konularda öğrendiğim yeni konular ile ilgili blog yazmaya çalışıyorum aynı zamanda github hesabımdan da zaman oldukça birşeyler paylaşmaya çalışıyorum. 
 Genelde paylaşımlarım iş hayatında karşılaştığım sorunların çözümleri ile alakalı oluyor.
 
 - **İsim**: Fatih
 - **From**: Turkiye
--**Genel konular ilgili yazılar yazdığım blog sitem ve mail adresim**
 - Blog sitem **[`sahin.tc`](https://www.sahin.tc)**. 
 - Mail adresim  **fatih@sahin.tc.me**
   
