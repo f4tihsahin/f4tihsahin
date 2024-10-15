@@ -1,5 +1,5 @@
 
-<p align="center"><img src="[https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNhNmYzM250c2R5OHh4MmpsOWUyc3BjNmQ0anIyb2lrZGhyYjdoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AXorq76Tg3Vte/giphy.webp)" width="100%" height="auto"/></p>
+<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNhNmYzM250c2R5OHh4MmpsOWUyc3BjNmQ0anIyb2lrZGhyYjdoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AXorq76Tg3Vte/giphy.webp" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
