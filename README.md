@@ -16,7 +16,12 @@ Ben **[`Fatih`](https://www.sahin.tc)**. Araçtırmayı ve yeni şeyler öğrenm
 İş hayatında ve diğer konularda öğrendiğim yeni konular ile ilgili blog yazmaya çalışıyorum aynı zamanda github hesabımdan da zaman oldukça birşeyler paylaşmaya çalışıyorum. 
 Genelde paylaşımlarım iş hayatında karşılaştığım sorunların çözümleri ile alakalı oluyor.
 
-
+- **İsim**: Fatih
+- **From**: Turkiye
+-**Genel konular ilgili yazılar yazdığım blog sitem ve mail adresim**
+- Blog sitem **[`sahin.tc`](https://www.sahin.tc)**. 
+- Mail adresim  **fatih@sahin.tc.me**
+  
 <details>
   <summary>Hakkımda</summary>
 
