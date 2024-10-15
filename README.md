@@ -2,12 +2,12 @@
 <p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHA4dmNhcWVsdGJyZ3lieDdoN2RnY290ZmdxYjRlNWJyZXU5OGZrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcqaVH1cDeKZTBS/giphy.gif" width="100%" height="auto"/></p>
 
 
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
+<img width="28%" align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB4ZGQybDZpempmdnlzdnNkNDlveHpnOHAwOHU3cnd6dHZudHp2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cmlyaySFQdYCVRaKip/giphy.gif">
 
 
 <h2 align="left">
   Merhaba
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB4ZGQybDZpempmdnlzdnNkNDlveHpnOHAwOHU3cnd6dHZudHp2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cmlyaySFQdYCVRaKip/giphy.gif" width="25px"/>
+  <img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
  
 
 Ben **[`Fatih`](https://www.sahin.tc)**. Araştırmayı ve yeni şeyler öğrenmeyi, aynı zamanda öğrendiklerini öğretmeyi seven birisiyim. Teknolojiyi seviyorum ve günlük hayatta bile bir şeyler öğrenip kullanmak istiyorum. Genelde hazırcı değilim. <br>
