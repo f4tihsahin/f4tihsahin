@@ -63,7 +63,7 @@ Genelde paylaşımlarım iş hayatında karşılaştığım sorunların çözüm
 
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+
  
  [![GitHub Streak](https://streak-stats.demolab.com?user=f4tihsahin&theme=github-dark&border_radius=15&locale=tr&border=00EB15)](https://git.io/streak-stats)
  <p align="left"><a href="https://github.com/f4tihsahin/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4tih&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
