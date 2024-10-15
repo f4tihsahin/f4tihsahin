@@ -1,11 +1,9 @@
 
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
-
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
+<p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHA4dmNhcWVsdGJyZ3lieDdoN2RnY290ZmdxYjRlNWJyZXU5OGZrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcqaVH1cDeKZTBS/giphy.gif" width="100%" height="auto"/></p>
 
 
 <h2 align="left">
-  Hi there
+  Merhaba
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
  
