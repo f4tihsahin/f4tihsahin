@@ -22,17 +22,13 @@ Genelde paylaşımlarım iş hayatında karşılaştığım sorunların çözüm
 - Blog sitem **[`sahin.tc`](https://www.sahin.tc)**. 
 - Mail adresim  **fatih@sahin.tc.me**
   
-<details>
-  <summary>Hakkımda</summary>
+
+<h2 id="present_status"> Hakkımda </h3>
 
 - **İsim**: Fatih
-- **From**: Turkiye
--**Genel konular ilgili yazılar yazdığım blog sitem ve mail adresim**
+- **Şehir**: Kayseri
 - Blog sitem **[`sahin.tc`](https://www.sahin.tc)**. 
 - Mail adresim  **fatih@sahin.tc.me**
-
-</details>
-<br>
 
 ---
 
